@@ -1,2 +1,2 @@
-# Project_baby_-names
+# Project_baby_names
 Baby names
